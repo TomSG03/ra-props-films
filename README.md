@@ -2,7 +2,7 @@
 ### [Gh-Pages]()
 
 
-## [Домашнее задание к лекции «Props»](https://github.com/TomSG03/ra16-homeworks/tree/master/events-state)
+## [Домашнее задание к лекции «Props»](https://github.com/TomSG03/ra16-homeworks/tree/master/props)
 
 - [x] Рейтинг фильмов
 - [ ] [Список предложений]()
